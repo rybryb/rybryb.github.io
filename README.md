@@ -24,7 +24,7 @@ The following were used for this guide but [many][Downloads] hypervisors and pla
 ### &#9888; Warning
 Mobile and off-intranet clients would require the server to be reachable from the internet requiring network and security-hardening expertise and permissions to minimise security risks and are beyond the scope of this guide. See the [Admin Manual][] and the [Latest supplementary admin manual][] for more information on possible risks and mitigation.
 
-###Install an ownCloud server
+### Install an ownCloud server
 1. Locate the ownCloud server appliance on https://owncloud.org/download/ and download the VirtualBox image.
 2. Import the image file into VirtualBox: **File> Import Appliance...**.
 3. Start the imported virtual machine (VM): **Start**.
@@ -43,14 +43,14 @@ Mobile and off-intranet clients would require the server to be reachable from th
 <img src="images/vm8 setup successful.png" title="Setup successful screen of VM Configuration Wizard" alt="Setup successfuls screen of VM Configuration Wizard" align="center" width="500"/>  
 11. Click **Finish** on the Setup Successful screen.  
 <img src="images/vm9 final screen with URL for Admin client.png" title="ownCloud Appliance screen of VM Configuration Wizard" alt="ownCloud Appliance screen of VM Configuration Wizard" align="center" width="500"/>  
-12. *Before* clicking on the final ownCloud Appliance screen, open a browser and navigate to the IP address displayed.
-13. After clicking on the final ownCloud Appliance screen, press any key to open a text console and then login to the ownCloud server as root using the password you defined earlier.
+12. *Before* clicking on the final ownCloud Appliance screen, open a browser and navigate to the IP address displayed.  
+13. After clicking on the final ownCloud Appliance screen, press any key to open a text console and then login to the ownCloud server as root using the password you defined earlier.  
 14. Stop the rpcbind service to prevent a security exploit of it by executing the following commands:  
-```
+```  
 service --status-all | grep rpcbind  
 service rpcbind stop  
-service --status-all | grep rpcbind
-```
+service --status-all | grep rpcbind  
+```  
 
 ### Configure the ownCloud server via the administrator client
 
@@ -105,14 +105,14 @@ The ownCloud user manual is located [here][user manual].
 The IOS app user guide is [here](https://doc.owncloud.org/ios/index.html).  
 The Android app user guide is [here](https://doc.owncloud.org/android/index.html).
 
-### &#9888; Warning  
+#### &#9888; Warning  
 Mobile and off-intranet clients would require the server to be reachable from the internet requiring network and security-hardening expertise and permissions to minimise security risks and are beyond the scope of this guide. See the [Admin Manual][] and the latest, [supplementary admin manual][] for more information on possible risks and mitigation.
 
 1. Search for "ownCloud" on the Apple or Google App store or download them from [downloads][].
 2. When you install an ownCloud app and open it you will be prompted for your ownCloud server URL and ownCloud user login credentials.  
 When the app connects it opens to the user's Files page.
 
-###Useful Links
+### Useful Links
 [ownCloud][].  
 [Community][].  
 [Downloads][].  
