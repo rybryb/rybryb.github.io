@@ -29,18 +29,18 @@ Mobile and off-intranet clients would require the server to be reachable from th
 2. Import the image file into VirtualBox: **File> Import Appliance...**.
 3. Start the imported virtual machine (VM): **Start**.
 4. Step through the Configuration Wizard in the VM window that appears.  
-<img src="images/vm2 domain and network.png" title="Domain and Network Configuration screen of VM Configuration Wizard" alt="Domain and Network Configuration screen of VM Configuration Wizard" class="center" width="500"/>  
+<img src="images/vm2 domain and network.png" title="Domain and Network Configuration screen of VM Configuration Wizard" alt="Domain and Network Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
 5. If necessary, modify the default values on the Domain and Network Configuration screen, e.g. by manually setting the IP address.  
-<img src="images/vm3 domain.png" title="Domain Configuration screen of VM Configuration Wizard" alt="Domain Configuration screen of VM Configuration Wizard" class="center" width="500"/>  
+<img src="images/vm3 domain.png" title="Domain Configuration screen of VM Configuration Wizard" alt="Domain Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
 6. Specify the default "Manage users and permissions directly on this system" on the Domain Configuration screen of VM Configuration Wizard.  
-<img src="images/vm4 account.png" title="Account Configuration screen of VM Configuration Wizard" alt="Account Configuration screen of VM Configuration Wizard" class="center" width="500"/>  
+<img src="images/vm4 account.png" title="Account Configuration screen of VM Configuration Wizard" alt="Account Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
 7. Enter the email address to which the license is to be sent on the Account Configuration screen of VM Configuration Wizard.  
-<img src="images/vm5 host settings.png" title="Host Settings Configuration screen of VM Configuration Wizard" alt="Host Settings Configuration screen of VM Configuration Wizard" class="center" width="500"/>  
+<img src="images/vm5 host settings.png" title="Host Settings Configuration screen of VM Configuration Wizard" alt="Host Settings Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
 8. Review the Host Settings Configuration screen of VM Configuration Wizard.  
-<img src="images/vm6 confirm configuration settings.png" title="Confirm Configuration Settings screen of VM Configuration Wizard" alt="Confirm Configuration Settings screen of VM Configuration Wizard" class="center" width="500"/>  
+<img src="images/vm6 confirm configuration settings.png" title="Confirm Configuration Settings screen of VM Configuration Wizard" alt="Confirm Configuration Settings screen of VM Configuration Wizard" align="center" width="500"/>  
 9. Review the Configuration Settings screen of VM Configuration Wizard, ensuring that **Update system after setup** is ticked.
 10. If correct, click **Configure System** to proceed. This may take some time to complete.  
-<img src="images/vm8 setup successful.png" title="Setup successful screen of VM Configuration Wizard" alt="Setup successfuls screen of VM Configuration Wizard" class="center" width="500"/>  
+<img src="images/vm8 setup successful.png" title="Setup successful screen of VM Configuration Wizard" alt="Setup successfuls screen of VM Configuration Wizard" align="center" width="500"/>  
 11. Click **Finish** on the Setup Successful screen.  
 <img src="images/vm9 final screen with URL for Admin client.png" title="ownCloud Appliance screen of VM Configuration Wizard" alt="ownCloud Appliance screen of VM Configuration Wizard" align="center" width="500"/>  
 12. *Before* clicking on the final ownCloud Appliance screen, open a browser and navigate to the IP address displayed.
