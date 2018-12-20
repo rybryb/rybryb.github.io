@@ -22,7 +22,7 @@ The following were used for this guide but [many][Downloads] hypervisors and pla
 - [Ubuntu 18.04LTS](https://www.ubuntu.com/download) for both VirtualBox and the ownCloud Desktop client
 
 ### &#9888; Warning
-Mobile and off-intranet clients would require the server to be reachable from the internet requiring network and security-hardening expertise and permissions to minimise security risks and are beyond the scope of this guide. See the [Admin Manual][] and the [Latest supplementary admin manual][] for more information on possible risks and mitigation.
+Mobile and off-intranet clients would require the server to be reachable from the internet requiring network and security-hardening expertise and permissions to minimise security risks and are beyond the scope of this guide. See the [Admin Manual][] and the [latest supplementary admin manual][] for more information on possible risks and mitigation.
 
 ### Install an ownCloud server
 1. Locate the ownCloud server appliance on https://owncloud.org/download/ and download the VirtualBox image.
@@ -106,7 +106,7 @@ The IOS app user guide is [here](https://doc.owncloud.org/ios/index.html).
 The Android app user guide is [here](https://doc.owncloud.org/android/index.html).
 
 #### &#9888; Warning  
-Mobile and off-intranet clients would require the server to be reachable from the internet requiring network and security-hardening expertise and permissions to minimise security risks and are beyond the scope of this guide. See the [Admin Manual][] and the latest, [supplementary admin manual][] for more information on possible risks and mitigation.
+Mobile and off-intranet clients would require the server to be reachable from the internet requiring network and security-hardening expertise and permissions to minimise security risks and are beyond the scope of this guide. See the [Admin Manual][] and the [latest supplementary admin manual][] for more information on possible risks and mitigation.
 
 1. Search for "ownCloud" on the Apple or Google App store or download them from [downloads][].
 2. When you install an ownCloud app and open it you will be prompted for your ownCloud server URL and ownCloud user login credentials.  
@@ -117,18 +117,18 @@ When the app connects it opens to the user's Files page.
 [Community][].  
 [Downloads][].  
 [Admin manual][].  
-Latest [supplementary admin manual][].  
+[Latest supplementary admin manual][].  
 [User manual][].  
-Latest [supplementary user manual][].  
+[Latest supplementary user manual][].  
 [IOS app user guide][ios].  
 [Android app user guide][android].  
 
   [ownCloud]: 			https://owncloud.org/							"ownCloud"
   [Downloads]: 			https://owncloud.org/download/						"ownCloud downloads"
   [Admin manual]: 		https://doc.owncloud.org/server/administration_manual/index.html	"admin manual"
-  [supplementary Admin manual]: https://doc.owncloud.org/server/latest/admin_manual/			"latest admin manual"
+  [Latest supplementary Admin manual]: https://doc.owncloud.org/server/latest/admin_manual/		"latest supplementary admin manual"
   [User manual]: 		https://doc.owncloud.org/server/user_manual/index.html			"user manual"
-  [supplementary User manual]: 	https://doc.owncloud.org/server/latest/user_manual/ 			"latest user manual"
+  [Latest supplementary User manual]: 	https://doc.owncloud.org/server/latest/user_manual/ 		"latest supplementary user manual"
   [ios]: 			https://doc.owncloud.org/ios/index.html					"ios user guide"
   [android]: 			https://doc.owncloud.org/android/index.html				"android user guide"
   [Community]: 			https://owncloud.org/community/						"community"
