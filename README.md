@@ -29,7 +29,7 @@ Mobile and off-intranet clients would require the server to be reachable from th
 2. Import the image file into VirtualBox: **File> Import Appliance...**.
 3. Start the imported virtual machine (VM): **Start**.
 4. Step through the Configuration Wizard in the VM window that appears.  
-<img src="images/vm2 domain and network.png" title="Domain and Network Configuration screen of VM Configuration Wizard" alt="Domain and Network Configuration screen of VM Configuration Wizard" align="center" width="500"/>
+<img src="images/vm2 domain and network.png" title="Domain and Network Configuration screen of VM Configuration Wizard" alt="Domain and Network Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
 5. If necessary, modify the default values on the Domain and Network Configuration screen, e.g. by manually setting the IP address.  
 <img src="images/vm3 domain.png" title="Domain Configuration screen of VM Configuration Wizard" alt="Domain Configuration screen of VM Configuration Wizard" align="center" width="500" style="max-width: 100%; max-height: 100%; display:block; margin:auto; margin-top:20;"/>  
 #### Figure 2. Domain Configuration screen of VM Configuration Wizard  
