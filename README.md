@@ -38,7 +38,7 @@ Mobile and off-intranet clients would require the server to be reachable from th
 <img src="images/vm5 host settings.png" title="Host Settings Configuration screen of VM Configuration Wizard" alt="Host Settings Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
 8. Review the Host Settings Configuration screen of VM Configuration Wizard.  
 <img src="images/vm6 confirm configuration settings.png" title="Confirm Configuration Settings screen of VM Configuration Wizard" alt="Confirm Configuration Settings screen of VM Configuration Wizard" align="center" width="500"/>  
-9. Review the Configuration Settings screen of VM Configuration Wizard, ensuring that **Update system after setup** is ticked.
+9. Review the Configuration Settings screen of VM Configuration Wizard, ensuring that **Update system after setup** is ticked.  
 10. If correct, click **Configure System** to proceed. This may take some time to complete.  
 <img src="images/vm8 setup successful.png" title="Setup successful screen of VM Configuration Wizard" alt="Setup successfuls screen of VM Configuration Wizard" align="center" width="500"/>  
 11. Click **Finish** on the Setup Successful screen.  
