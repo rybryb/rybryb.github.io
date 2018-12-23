@@ -30,19 +30,26 @@ Mobile and off-intranet clients would require the server to be reachable from th
 3. Start the imported virtual machine (VM): **Start**.
 4. Step through the Configuration Wizard in the VM window that appears.  
 <img src="images/vm2 domain and network.png" title="Domain and Network Configuration screen of VM Configuration Wizard" alt="Domain and Network Configuration screen of VM Configuration Wizard" align="center" width="500"/>
+##### Figure 1. Domain and Network Configuration screen of VM Configuration Wizard
 5. If necessary, modify the default values on the Domain and Network Configuration screen, e.g. by manually setting the IP address.  
 <img src="images/vm3 domain.png" title="Domain Configuration screen of VM Configuration Wizard" alt="Domain Configuration screen of VM Configuration Wizard" align="center" width="500"/>
+##### Figure 2. Domain Configuration screen of VM Configuration Wizard
 6. Specify the default "Manage users and permissions directly on this system" on the Domain Configuration screen of VM Configuration Wizard.  
 <img src="images/vm4 account.png" title="Account Configuration screen of VM Configuration Wizard" alt="Account Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
+##### Figure 3. Account Configuration screen of VM Configuration Wizard
 7. Enter the email address to which the license is to be sent on the Account Configuration screen of VM Configuration Wizard.  
 <img src="images/vm5 host settings.png" title="Host Settings Configuration screen of VM Configuration Wizard" alt="Host Settings Configuration screen of VM Configuration Wizard" align="center" width="500"/>  
+##### Figure 4. Host Settings Configuration screen of VM Configuration Wizard
 8. Review the Host Settings Configuration screen of VM Configuration Wizard.  
 <img src="images/vm6 confirm configuration settings.png" title="Confirm Configuration Settings screen of VM Configuration Wizard" alt="Confirm Configuration Settings screen of VM Configuration Wizard" align="center" width="500"/>  
+##### Figure 5. Confirm Configuration Settings screen of VM Configuration Wizard
 9. Review the Configuration Settings screen of VM Configuration Wizard, ensuring that **Update system after setup** is ticked.  
 10. If correct, click **Configure System** to proceed. This may take some time to complete.  
 <img src="images/vm8 setup successful.png" title="Setup successful screen of VM Configuration Wizard" alt="Setup successfuls screen of VM Configuration Wizard" align="center" width="500"/>  
+##### Figure 6. Setup successful screen of VM Configuration Wizard
 11. Click **Finish** on the Setup Successful screen.  
 <img src="images/vm9 final screen with URL for Admin client.png" title="ownCloud Appliance screen of VM Configuration Wizard" alt="ownCloud Appliance screen of VM Configuration Wizard" align="center" width="500"/>  
+##### Figure 7. ownCloud Appliance screen of VM Configuration Wizard
 12. *Before* clicking on the final ownCloud Appliance screen, open a browser and navigate to the IP address displayed.  
 13. After clicking on the final ownCloud Appliance screen, press any key to open a text console and then login to the ownCloud server as root using the password you defined earlier.  
 14. Stop the rpcbind service to prevent a security exploit of it by executing the following commands:  
@@ -63,10 +70,13 @@ An email with a license file will be sent to the email address you configured.
 5. Click **Finish** on the Activation success screen to open a welcome screen.
 6. Click on the **X** to close the welcome screen and get to the Univention Portal screen.  
 <img src="images/univention portal.png" title="Univention Portal screen" alt="Univention Portal screen" align="center" width="500"/>  
+##### Figure 8. Univention Portal screen
 7. This screen has links for both the administrator and user web clients. 
 8. Click on **System and domain settings** to open a login screen for the administrator web client.
 9. Enter "Administrator" and the root password you defined to access the administrator web client below.  
 <img src="images/admin client home screen.png" title="admin client home screen" alt="admin client home screen" align="center" width="500"/>  
+##### Figure 9. Admin client home screen
+
 
 #### Add a user
 1. Browse to the Administrator client by entering the IP address of the ownCloud server and then clicking on **System and domain settings**.
@@ -96,10 +106,14 @@ The ownCloud user manual is located [here][user manual].
 8. If prompted, enter the ownCloud server IP address.
 9. You may be asked to trust the self-generated certificate.  
 <img src="images/desktop client login.png" title="desktop client login" alt="desktop client login" align="center" width="500"/>  
+##### Figure 10. Desktop client login
 10. Enter the username and password for the user you added and click **Next**.  
 <img src="images/desktop client options.png" title="desktop client options" alt="desktop client options" align="center" width="500"/>  
+##### Figure 11. Desktop client options
 11. Click **Connect...** on the next screen and explore the home screen below.  
 <img src="images/desktop client home.png" title="desktop client home" alt="desktop client home" align="center" width="500"/>  
+##### Figure 12. Desktop client home
+
 
 #### Mobile client
 The IOS app user guide is [here](https://doc.owncloud.org/ios/index.html).  
