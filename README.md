@@ -4,7 +4,7 @@
 
 ## Installing and connecting to an ownCloud server.
 
-##### 0.2
+##### 0.3
 
 ##### Ray Brett
 
