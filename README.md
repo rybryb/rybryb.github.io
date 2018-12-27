@@ -8,6 +8,9 @@
 
 ##### Ray Brett
 
+* TOC
+{:toc}
+
 ### Introduction
 Sharing of files in synchronised folders across multiple devices, including mobile, is made possible by ownCloud.
 
