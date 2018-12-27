@@ -1,8 +1,8 @@
 # Quick Start Guide
 
-## [ownCloud][]
+## [ownCloud][]{:.no_toc}
 
-## Installing and connecting to an ownCloud server.
+## Installing and connecting to an ownCloud server.{:.no_toc}
 
 ##### 0.3
 
