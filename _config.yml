@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: ownCloud Quick Start Guide
 description: get ownCloud up and running to share and sync files across devices
 kramdown: 
-  toc_levels: "2,3"
+  toc_levels: "2,3,4"
